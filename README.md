@@ -21,3 +21,6 @@ Calls can be forwarded to a single phone thanks to carriers' call forwarding ser
 2. Launch the app, there will be a prompt requesting for SMS receive and send permissions. The app won't work without them, please grant.
 3. Enter the target phone number.
 4. Put down the Android phone and keep it charged for continuous service.
+
+
+
