@@ -11,7 +11,7 @@ Calls can be forwarded to a single phone thanks to carriers' call forwarding ser
     When a message is received, it will be redirect to target phone. Message body will have `from {source number}:` (and a line break) prepended, message content starts at the second line.
 
 2. Send messages
-![forard (1)](https://github.com/HackWithSumit/TextMessage-Forward/assets/120317751/09dac020-ab1a-45eb-a50e-699aa4f78e13)
+![forard (2)](https://github.com/HackWithSumit/TextMessage-Forward/assets/120317751/fcd41751-f30e-4cdb-9756-13b9c5c42855)
 
 
     You can even control the Android phone to send messages. Simply send message to the Android phone, with `to {receive number}:` (and a line break) prepended in message body, message content starting from the second line will be forwarded.
