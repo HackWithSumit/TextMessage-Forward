@@ -6,7 +6,7 @@ Calls can be forwarded to a single phone thanks to carriers' call forwarding ser
 
 ## Usages
 1. Receive messages
-![image](https://github.com/HackWithSumit/TextMessage-Forward/assets/120317751/82331184-765a-4492-b445-87f7a0832924)
+![forard](https://github.com/HackWithSumit/TextMessage-Forward/assets/120317751/6260b9da-70cc-447f-980e-33abfcaedc87)
 
     When a message is received, it will be redirect to target phone. Message body will have `from {source number}:` (and a line break) prepended, message content starts at the second line.
 
